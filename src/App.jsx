@@ -14,9 +14,9 @@ function App() {
       <Preloader />
       <Navbar />
       <Hero />
-      <Expertise />
       <About />
       <Services />
+      <Expertise />
       <Contact />
       <Footer />
     </>
