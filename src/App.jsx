@@ -6,6 +6,7 @@ import About from './components/About'
 import Services from './components/Services'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import Expertise from './components/Expertise'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Preloader />
       <Navbar />
       <Hero />
+      <Expertise />
       <About />
       <Services />
       <Contact />
